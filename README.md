@@ -1,2 +1,2 @@
 # unreal-engine
-Programming exercises on the Unreal Engine.
+Programming exercises on The Unreal Engine - unrealengine.com.
