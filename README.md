@@ -1,2 +1,2 @@
 # unreal-engine
-Programming and coding on the The Unreal Engine.
+Code samples for working with the game engine, Unreal.
