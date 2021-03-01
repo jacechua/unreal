@@ -1,2 +1,2 @@
 # unreal-engine
-Code samples for working with the game engine, Unreal.
+Code samples for working with the Unreal game engine.
